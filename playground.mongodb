@@ -1,0 +1,2 @@
+use('hwatu')
+db.cards.find({})
